@@ -1,2 +1,2 @@
-# Java-for-Interview
-Java for Interview
+# Java-Note
+Java Note
